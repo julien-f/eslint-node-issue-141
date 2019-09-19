@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "eslint-plugin-node": "^10.0.0"
+  }
+}
